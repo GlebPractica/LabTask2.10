@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|d:\\pairs\\kpjp_practica\\work_2.10\\task1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|d:\\pairs\\kpjp_practica\\work_2.10\\task1\\migrations\\20240523065228_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|solutionrelative:migrations\\20240523065228_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|d:\\pairs\\kpjp_practica\\work_2.10\\task1\\pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|solutionrelative:pages\\movies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|d:\\pairs\\kpjp_practica\\work_2.10\\task1\\pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|solutionrelative:pages\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|d:\\pairs\\kpjp_practica\\work_2.10\\task1\\pages\\movies\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|solutionrelative:pages\\movies\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|d:\\pairs\\kpjp_practica\\work_2.10\\task1\\pages\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|solutionrelative:pages\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|d:\\pairs\\kpjp_practica\\work_2.10\\task1\\pages\\movies\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|solutionrelative:pages\\movies\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|d:\\pairs\\kpjp_practica\\work_2.10\\task1\\pages\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|solutionrelative:pages\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|d:\\pairs\\kpjp_practica\\work_2.10\\task1\\pages\\movies\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|solutionrelative:pages\\movies\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|d:\\pairs\\kpjp_practica\\work_2.10\\task1\\pages\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|solutionrelative:pages\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|d:\\pairs\\kpjp_practica\\work_2.10\\task1\\pages\\movies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|solutionrelative:pages\\movies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|d:\\pairs\\kpjp_practica\\work_2.10\\task1\\pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|solutionrelative:pages\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|d:\\pairs\\kpjp_practica\\work_2.10\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|d:\\pairs\\kpjp_practica\\work_2.10\\task1\\data\\task1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C230F0-3991-4D57-8D56-535211206762}|Task1.csproj|solutionrelative:data\\task1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 280,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240523065228_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Migrations\\20240523065228_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240523065228_InitialCreate.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Migrations\\20240523065228_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240523065228_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:52:28.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Index.cshtml.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Movies\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:49:29.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Index.cshtml",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Movies\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:49:29.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Delete.cshtml.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Movies\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:49:29.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Delete.cshtml",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Movies\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:49:29.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Details.cshtml.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Movies\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:49:29.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Details.cshtml",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Movies\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:49:28.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Movies\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:49:28.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Edit.cshtml",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Movies\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:49:28.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Create.cshtml.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Movies\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:49:28.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Create.cshtml",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Pages\\Movies\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Movies\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:49:28.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Task1Context.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Data\\Task1Context.cs",
+              "RelativeDocumentMoniker": "Data\\Task1Context.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Data\\Task1Context.cs",
+              "RelativeToolTip": "Data\\Task1Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:49:27.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:41:40.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Pairs\\KPJP_Practica\\Work_2.10\\Task1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:16:10.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
